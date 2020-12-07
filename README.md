@@ -3,8 +3,9 @@
 
 ## Components
 
-- [Trailer Video]()
-- [Main Video]()
+- [Trailer Video](https://youtu.be/2vD-XjUVEYss)
+- [Main Video](https://youtu.be/x_hMY9PZGpQ)
+- [README](https://github.com/EthanHolen/HW4-CS310H-docs/blob/main/README.md)
 
 
 
